@@ -16,6 +16,6 @@ setup(
         ]
     },
     install_requires=[
-    'Flask==0.8'
+    'requests'
     ]
 )
