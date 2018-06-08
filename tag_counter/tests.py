@@ -9,5 +9,5 @@ class HelloworldTestCase(TestCase):
         self.assertEqual(get_message(), 'Hello World!')
         
     def test_helloworld2(self):
-        self.assertEqual(get_message(), 'Hello World!')
+        self.assertEqual(get_message(), 'Hello World!1')
 
